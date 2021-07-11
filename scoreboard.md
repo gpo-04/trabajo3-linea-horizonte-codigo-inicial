@@ -33,6 +33,7 @@
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo09-tarde?branch=master&token=a7bb4ffd4f373164d7087e5b3bba6d2c2f2a1688)](https://bettercodehub.com/) |iwt31-09|
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo08-tarde?branch=master&token=e0704f8e962c7a4d931368fa0d8bce5ae8519a8d)](https://bettercodehub.com/) |iwt31-08|
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt31-equipo07-tarde?branch=master&token=6e45576e7c18417b5c7f53f1fdd37cf5d23bed03)](https://bettercodehub.com/) |iwt31-07|
+[![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-grupo-ef-gpo-04?branch=master&token=17b464b3bb4b5159bff58551295d978f08dc43fe)](https://bettercodehub.com/)   |iwt31-gpo-04| 
 | **IWT32**                   |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-equipo01-iwt32?branch=master&token=127111b392169612e1a6db4821ff5d833fa59154)](https://bettercodehub.com/) |iwt32-01|
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/lab-3-mantenibilidad-giwt32-equipo08-iwt32?branch=master&token=2dde5a188112855f7579f68c1f2ece6e1454bc56)](https://bettercodehub.com/) |giwt32-08| 
